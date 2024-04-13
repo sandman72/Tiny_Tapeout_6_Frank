@@ -13,7 +13,7 @@ It takes the clock input and divides it down
 
 ## How to test
 
-Apply clock (10khz) and watch output pin 7
+Apply clock (10khz) and watch output pin OUT7 and the dot on the 7seg display
 
 ## External hardware
 
