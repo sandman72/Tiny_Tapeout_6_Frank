@@ -39,13 +39,13 @@ If all inputs are off the 7seg display will show alternating letters F and H
 
 If switch SW1 is on the 7seg display will show the rotation animation
 
-Toggle SW4 to disable the dot blinking
+Toggle SW2 to disable the dot blinking
 
 Toggle SW6 to pause
 
 Toggle SW8 to change speed
 
-SW5 and SW7 are for debugging and testing internals later on
+SW7 is for debugging divider
 
 ## External hardware
 
