@@ -17,13 +17,13 @@ Inputs
 
 SW1 - IN0 = Mode (FH or Rotation Animation)
 
-SW2 - IN1 = unused
+SW2 - IN1 = Blinking (turns dot on/off)
 
 SW3 - IN2 = unused
 
-SW4 - IN3 = Blinking (turns dot on/off)
+SW4 - IN3 = unused
 
-SW5 - IN4 = Direct Clock (turns full clock speed on)
+SW5 - IN4 = unused
 
 SW6 - IN5 = Pause (if switched on, animation will freeze)
 
