@@ -14,6 +14,7 @@ It takes the clock input (10kHz) and divides it down depending on the input 7.
 The mode input 0 either shows the letters F and H or is switched to the rotation animation.
 
 Inputs
+
 SW1 - IN0 = Mode (FH or Rotation Animation)
 
 SW2 - IN1 = unused
